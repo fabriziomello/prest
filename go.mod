@@ -3,7 +3,7 @@ module github.com/prest/prest
 go 1.15
 
 require (
-	github.com/auth0/go-jwt-middleware v1.0.0
+	github.com/auth0/go-jwt-middleware v1.0.1
 	github.com/clbanning/mxj v1.8.4
 	github.com/form3tech-oss/jwt-go v3.2.2+incompatible
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
